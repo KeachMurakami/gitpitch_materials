@@ -119,17 +119,28 @@ fixed position (code)
 
 resize (demo)
 
-<div style="position:relative; left:0px; top:0px; width:500px; height:500px">
-<div class="fragment" data-fragment-index = "1" style="position:absolute; left:0px; top:0px; width:100%; height:100%">
+<div class="column1">
 ![](img/sample1.png)
 </div>
-<div class="fragment" data-fragment-index = "2" style="position:absolute; left:0px; top:0px; width:100%; height:100%">
-![](img/sample1.png =80x80)
+<div class="column2">
+![](img/sample1.png =80x80){width = 50%}
 </div>
-</div>
-
 
 +++
+![](img/sample1.png){width=20%}
+![](img/sample1.png){width=20px}
+
++++
+<img src="img/sample1.png" width="20%">
+<img src="img/sample1.png" width="20px">
+
++++
+<img src="img/sample1.png" alt="drawing" style="width:20%;"/>
+<img src="img/sample1.png" alt="drawing" style="width:20px;"/>
+
++++
+![](img/sample1.png){:width="20%"}
+![](img/sample1.png){:width="20px"}
 
 resize (code)
 
