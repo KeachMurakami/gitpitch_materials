@@ -11,16 +11,16 @@
 
 .reveal .slides>section {
   min-height: 90% !important;
-  top: auto !important;
+  top: auto
   min-width: 90% !important;
-  left: auto !important;
+  left: auto
 }
 
 .reveal .slides>section>section {
   min-height: 100% !important;
-  top: auto !important;
+  top: auto
   min-width: 90% !important;
-  left: auto !important;
+  left: auto
 }
 
 /*.reveal .slides {

@@ -16,13 +16,15 @@ Geometry
 +++
 
 
-set margin
+Want to expand slide area?
 
-- [Vertically fill screen 100%? #180 | GitHub](https://github.com/hakimel/reveal.js/issues/180)
+[Vertically fill screen 100%? #180 | GitHub](https://github.com/hakimel/reveal.js/issues/180)
 
-working correctly?
+
+See if this works correctly!
 
 - Wrap some looooooooooooooooooooooooooooooooooooooong words
+- Woooooooooooooooooooooooooooooooooooooorking correctly?
 
 +++
 
