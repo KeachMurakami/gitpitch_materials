@@ -1,9 +1,6 @@
 
 
-Reveal.initialize({
-    width: '100%',
-    height: '100%'
-})
+<!--html_preserve-->Reveal.initialize({width: '100%', height: '100%'})<!--/html_preserve-->
 
 ## SOURCE
 

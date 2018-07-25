@@ -8,10 +8,7 @@ git push -u origin master
 ")
 ```
 
-Reveal.initialize({
-    width: '100%',
-    height: '100%'
-})
+`r htmltools::HTML("Reveal.initialize({width: '100%', height: '100%'})")`
 
 ## SOURCE
 
