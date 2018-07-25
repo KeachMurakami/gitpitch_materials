@@ -39,11 +39,11 @@ footnote : "© 2018 Keach Murakami"
 
 background
 
-+++?image=img/sample.png&size=contain
-@+++?image=img/sample.png&size=contain
++++?image=img/sample1.png&size=contain
+`+++?image=img/sample1.png&size=contain`
 
-+++?image=img/sample.png&size=cover
-@+++?image=img/sample.png&size=cover
++++?image=img/sample1.png&size=cover
+`+++?image=img/sample1.png&size=cover`
 
 
 
@@ -79,3 +79,18 @@ RIGHT SIDE
 <!-- .slide: class="center" -->
 
 fixed position
+
+```
+<div style="position:relative; left:0px; top:0px; width:500px; height:500px; background-color:orange">
+  <div class="fragment" data-fragment-index = "1" style="position:absolute; left:0px; top:0px; width:500px; height:500px>
+    ![](img/sample1.png)
+  </div>
+  <div class="fragment" data-fragment-index = "2" style="position:absolute; left:0px; top:0px; width:500px; height:500px>
+    ![](img/sample2.png)
+  </div>
+</div>
+```
+
+@[1, 8](generate fixed rectangle)
+@[2-4](display the first plot using ‘fragment’)
+@[5-7](display the second plot using ‘fragment’)
