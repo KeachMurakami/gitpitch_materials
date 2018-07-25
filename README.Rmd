@@ -1,0 +1,7 @@
+---
+output:
+  md_document:
+    variant: markdown_github
+---
+
+Test [GitPitch](https://gitpitch.com/KeachMurakami/gitpitch_materials) functions.
