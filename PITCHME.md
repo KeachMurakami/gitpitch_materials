@@ -75,9 +75,9 @@ RIGHT SIDE
 ---?color=linear-gradient(to left, #56ccf2, #2f80ed)
 <!-- .slide: class="center" -->
 
-fixed position
+image
 
-+++
++++ fixed position (demo)
 
 <div style="position:relative; left:0px; top:0px; width:500px; height:500px">
 <div class="fragment" data-fragment-index = "1" style="position:absolute; left:0px; top:0px; width:100%; height:100%">
@@ -88,7 +88,7 @@ fixed position
 </div>
 </div>
 
-+++
++++ fixed position (code)
 
 ```
 <div style="position:relative; left:0px; top:0px; width:500px; height:500px">
@@ -104,3 +104,22 @@ fixed position
 @[1, 8](generate fixed rectangle)
 @[2-4](display the first plot using ‘fragment’)
 @[5-7](display the second plot using ‘fragment’)
+
++++ resize (demo)
+
+<div style="position:relative; left:0px; top:0px; width:500px; height:500px">
+<div class="fragment" data-fragment-index = "1" style="position:absolute; left:0px; top:0px; width:100%; height:100%">
+![](img/sample1.png)
+</div>
+<div class="fragment" data-fragment-index = "2" style="position:absolute; left:0px; top:0px; width:100%; height:100%">
+![](img/sample1.png =80x80)
+</div>
+</div>
+
+
++++ resize (code)
+
+
+
+--- REFERENCES
+<!-- .slide: class="center" -->
