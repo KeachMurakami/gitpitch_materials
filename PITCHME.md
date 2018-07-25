@@ -82,7 +82,7 @@ fixed position
 
 +++
 
-<div style="position:relative; left:0px; top:0px; width:500px; height:500px; background-color:orange">
+<div style="position:relative; left:0px; top:0px; width:500px; height:500px">
   <div class="fragment" data-fragment-index = "1" style="position:absolute; left:0px; top:0px; width:500px; height:500px>
     ![](img/sample1.png)
   </div>
@@ -94,7 +94,7 @@ fixed position
 +++
 
 ```
-<div style="position:relative; left:0px; top:0px; width:500px; height:500px; background-color:orange">
+<div style="position:relative; left:0px; top:0px; width:500px; height:500px">
   <div class="fragment" data-fragment-index = "1" style="position:absolute; left:0px; top:0px; width:500px; height:500px>
     ![](img/sample1.png)
   </div>
