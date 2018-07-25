@@ -32,7 +32,8 @@ Want to expand slide area?
 See if this works correctly!
 
 - Wrap some looooooooooooooooooooooooooooooooooooooong words
-- Woooooooooooooooooooooooooooooooooooooorking correctly?
+- Woooooooooooooooooooooooooooooooooooooooooooorking correctly?
+- Note that if apply this, we cannot set per-slide vertical alignment with `<!-- .slide: class="center" -->`
 
 +++
 
