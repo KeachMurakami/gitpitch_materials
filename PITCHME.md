@@ -104,9 +104,10 @@ fixed position (code)
 <div style="position:relative; left:0px; top:0px; width:500px; height:500px">
 <div class="fragment" data-fragment-index = "1" style="position:absolute; left:0px; top:0px; width:100%; height:100%">
 ![](img/sample1.png)
+@![](img/sample1.png)
 </div>
 <div class="fragment" data-fragment-index = "2" style="position:absolute; left:0px; top:0px; width:100%; height:100%">
-![](img/sample2.png)
+# ![](img/sample2.png)
 </div>
 </div>
 ```
@@ -146,8 +147,6 @@ work
 not work
 
 - `![](img/sample1.png){width=20%}`
-
-
 
 
 
