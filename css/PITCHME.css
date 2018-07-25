@@ -1,4 +1,7 @@
 /* layout */
+
+.reveal pre { width: 100%; } /* expand slide width */
+
 .reveal .slides > section,
 .reveal .slides > section > section {
   line-height: 1;
