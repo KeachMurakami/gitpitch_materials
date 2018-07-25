@@ -7,7 +7,7 @@ highlight : ir-black
 vertical-center : false
 
 # additinal css theme
-theme-override: assets/css/PITCHME.css
+theme-override: css/PITCHME.css
 
 # Behavior
 transition : none
