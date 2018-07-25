@@ -39,8 +39,8 @@ background
 +++?image=img/sample1.png&size=contain
 `+++?image=img/sample1.png&size=contain`
 
-+++?image=img/sample1.png&size=80% auto
-`+++?image=img/sample1.png&size=80% auto`
++++?image=img/sample1.png&size=50% auto
+`+++?image=img/sample1.png&size=50% auto`
 
 
 
