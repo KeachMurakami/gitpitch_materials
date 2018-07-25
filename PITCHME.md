@@ -83,7 +83,9 @@ RIGHT SIDE
 
 image
 
-+++fixed position (demo)
++++
+
+fixed position (demo)
 
 <div style="position:relative; left:0px; top:0px; width:500px; height:500px">
 <div class="fragment" data-fragment-index = "1" style="position:absolute; left:0px; top:0px; width:100%; height:100%">
@@ -94,7 +96,9 @@ image
 </div>
 </div>
 
-+++fixed position (code)
++++
+
+fixed position (code)
 
 ```
 <div style="position:relative; left:0px; top:0px; width:500px; height:500px">
@@ -111,7 +115,9 @@ image
 @[2-4](display the first plot using ‘fragment’)
 @[5-7](display the second plot using ‘fragment’)
 
-+++resize (demo)
++++
+
+resize (demo)
 
 <div style="position:relative; left:0px; top:0px; width:500px; height:500px">
 <div class="fragment" data-fragment-index = "1" style="position:absolute; left:0px; top:0px; width:100%; height:100%">
@@ -123,7 +129,9 @@ image
 </div>
 
 
-+++resize (code)
++++
+
+resize (code)
 
 
 
