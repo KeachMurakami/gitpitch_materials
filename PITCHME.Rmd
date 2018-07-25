@@ -138,13 +138,9 @@ resize (code)
 </div>
 ```
 
-`r htmltools::HTML("@fa[rocket]")`
+- `r htmltools::HTML("@fa[thumbs-up]")`: `<img src="img/sample1.png" width="20%">`
 
-- `<img src="img/sample1.png" width="20%">`
-
-`r htmltools::HTML("@fa[bar-chart]]")`
-
-- `![](img/sample1.png){width=20%}`
+- `r htmltools::HTML("@fa[thumbs-down]")`: `![](img/sample1.png){width=20%}`
 
 
 --- REFERENCES

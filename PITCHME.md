@@ -139,13 +139,9 @@ resize (code)
 </div>
 ```
 
-<!--html_preserve-->@fa[rocket]<!--/html_preserve-->
+- <!--html_preserve-->@fa[thumbs-up]<!--/html_preserve-->: `<img src="img/sample1.png" width="20%">`
 
-- `<img src="img/sample1.png" width="20%">`
-
-<!--html_preserve-->@fa[bar-chart]]<!--/html_preserve-->
-
-- `![](img/sample1.png){width=20%}`
+- <!--html_preserve-->@fa[thumbs-down]<!--/html_preserve-->: `![](img/sample1.png){width=20%}`
 
 
 --- REFERENCES
