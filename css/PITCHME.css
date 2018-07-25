@@ -1,4 +1,8 @@
 /* layout */
+.reveal .slides section>* {
+    margin-left: 0;
+    margin-right: 0;
+}
 .reveal .slides section .column1 {
   float: left;
   width: 49%;
@@ -32,3 +36,5 @@
 .reveal small {
   font-size: 0.75em;
 }
+
+
