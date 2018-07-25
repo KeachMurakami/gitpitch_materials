@@ -144,5 +144,7 @@ resize (code)
 - <!--html_preserve-->@fa[thumbs-down]<!--/html_preserve-->: `![](img/sample1.png){width=20%}`
 
 
---- REFERENCES
+---
+
+REFERENCES
 <!-- .slide: class="center" -->

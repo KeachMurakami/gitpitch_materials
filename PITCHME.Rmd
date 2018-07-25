@@ -143,5 +143,7 @@ resize (code)
 - `r htmltools::HTML("@fa[thumbs-down]")`: `![](img/sample1.png){width=20%}`
 
 
---- REFERENCES
+---
+
+REFERENCES
 <!-- .slide: class="center" -->
