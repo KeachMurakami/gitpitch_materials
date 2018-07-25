@@ -1,13 +1,4 @@
 
-```r
-knitr::knit(input = "~/Dropbox/gitpitch/PITCHME.Rmd", output = "~/Dropbox/gitpitch/PITCHME.md")
-
-system("
-git add --all
-git commit -m 'update'
-git push -u origin master
-")
-```
 
 external files
 
@@ -44,49 +35,23 @@ geometry
 
 +++
 
-<div style="position:absolute; left:0px; top:100px; width:100%; height:3px; background-color:red">
-top: 100px
-</div>
+<div style="position:absolute; left:0px; top:0px; width:100%; height:3px; background-color:red">top: 0px</div>
+<div style="position:absolute; left:0px; top:100px; width:100%; height:3px; background-color:red">top: 100px</div>
+<div style="position:absolute; left:0px; top:200px; width:100%; height:3px; background-color:red">top: 200px</div>
+<div style="position:absolute; left:0px; top:300px; width:100%; height:3px; background-color:red">top: 300px</div>
+<div style="position:absolute; left:0px; top:400px; width:100%; height:3px; background-color:red">top: 400px</div>
+<div style="position:absolute; left:0px; top:500px; width:100%; height:3px; background-color:red">top: 500px</div>
 
-<div style="position:absolute; left:0px; top:200px; width:100%; height:3px; background-color:red">
-top: 200px
-</div>
-
-<div style="position:absolute; left:0px; top:300px; width:100%; height:3px; background-color:red">
-top: 300px
-</div>
-
-<div style="position:absolute; left:0px; top:400px; width:100%; height:3px; background-color:red">
-top: 400px
-</div>
-
-<div style="position:absolute; left:0px; top:500px; width:100%; height:3px; background-color:red">
-top: 500px
-</div>
-
-<div style="position:absolute; left:100px; top:0px; width:3px; height:100%; background-color:orange">
-left: 100px
-</div>
-
-<div style="position:absolute; left:200px; top:0px; width:3px; height:100%; background-color:orange">
-left: 200px
-</div>
-
-<div style="position:absolute; left:300px; top:0px; width:3px; height:100%; background-color:orange">
-left: 300px
-</div>
-
-<div style="position:absolute; left:400px; top:0px; width:3px; height:100%; background-color:orange">
-left: 400px
-</div>
-
-<div style="position:absolute; left:500px; top:0px; width:3px; height:100%; background-color:orange">
-left: 500px
-</div>
-
-<div style="position:absolute; left:600px; top:0px; width:3px; height:100%; background-color:orange">
-left: 600px
-</div>
+<div style="position:absolute; left:0px; top:0px; width:3px; height:100%; background-color:orange"></div>
+<div style="position:absolute; left:100px; top:0px; width:3px; height:100%; background-color:orange"></div>
+<div style="position:absolute; left:200px; top:0px; width:3px; height:100%; background-color:orange"></div>
+<div style="position:absolute; left:300px; top:0px; width:3px; height:100%; background-color:orange"></div>
+<div style="position:absolute; left:400px; top:0px; width:3px; height:100%; background-color:orange"></div>
+<div style="position:absolute; left:500px; top:0px; width:3px; height:100%; background-color:orange"></div>
+<div style="position:absolute; left:600px; top:0px; width:3px; height:100%; background-color:orange"></div>
+<div style="position:absolute; left:700px; top:0px; width:3px; height:100%; background-color:orange"></div>
+<div style="position:absolute; left:800px; top:0px; width:3px; height:100%; background-color:orange"></div>
+<div style="position:absolute; left:900px; top:0px; width:3px; height:100%; background-color:orange"></div>
 
 +++?image=img/sample1.png&size=50% auto
 `+++?image=img/sample1.png&size=50% auto`
