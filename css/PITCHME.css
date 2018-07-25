@@ -1,25 +1,24 @@
-/* layout */
-.reveal .slides {
-  height: 100% !important;
-  width: 100% !important;
-  top: 0 !important;
-  margin-top: 0 !important;
-  left: 0 !important;
-  margin-left: 5% !important;
-  line-height: 1;
-  font-weight: inherit;
-}
-
-.reveal .slides>section {
-  min-height: 90% !important;
-  min-width: 90% !important;
-  top: auto !important;
-  left: auto !important;
-}
-
-.reveal .slides>section>section {
+.reveal.slide .slides > section, .reveal.slide .slides > section > section {
   min-height: 100% !important;
-  min-width: 100% !important;
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: center !important;
+  position: absolute !important;
+  top: 0 !important;
+  align-items: center !important;
+}
+section > h1, section > h2 {
+  position: absolute !important;
+  top: 0 !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  left: 0 !important;
+  right: 0 !important;
+  text-align: center !important;
+}
+.print-pdf .reveal.slide .slides > section, .print-pdf .reveal.slide .slides > section > section {
+  min-height: 770px !important;
+  position: relative !important;
 }
 
 /* grids*/
