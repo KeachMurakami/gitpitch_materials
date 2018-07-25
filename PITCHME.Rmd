@@ -43,6 +43,12 @@ Geometry
 
 +++
 
+<img src="img/sample1.png" width="20%">
+
+`r yose::draw_grid()`
+
++++
+
 `r yose::draw_grid()`
 
 
