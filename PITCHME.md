@@ -31,7 +31,7 @@ width: 49%;
 ---?color=linear-gradient(to left, #56ccf2, #2f80ed)
 <!-- .slide: class="center" -->
 
-geometry
+Geometry
 
 +++
 
@@ -40,8 +40,9 @@ geometry
 <div style="position:absolute; left:0px; top:200px; width:100%; height:3px; background-color:red">top: 200px</div>
 <div style="position:absolute; left:0px; top:300px; width:100%; height:3px; background-color:red">top: 300px</div>
 <div style="position:absolute; left:0px; top:400px; width:100%; height:3px; background-color:red">top: 400px</div>
-<div style="position:absolute; left:0px; top:500px; width:100%; height:3px; background-color:red">top: 500px</div>
-<div style="position:absolute; left:0px; top:600px; width:100%; height:3px; background-color:red">top: 600px</div>
+
+<div style="position:absolute; left:0px; bottom:0px; width:100%; height:3px; background-color:red">bottom: 0px</div>
+<div style="position:absolute; left:0px; bottom:100px; width:100%; height:3px; background-color:red">top: 100px</div>
 
 <div style="position:absolute; left:0px; top:0px; width:3px; height:50px; background-color:orange"></div>
 <div style="position:absolute; left:100px; top:0px; width:3px; height:150px; background-color:orange"></div>
@@ -58,30 +59,15 @@ geometry
 `+++?image=img/sample1.png&size=50% auto`
 
 
-
-
 ---?color=linear-gradient(to left, #56ccf2, #2f80ed)
 <!-- .slide: class="center" -->
 
-background
-
-+++?image=img/sample1.png&size=contain
-`+++?image=img/sample1.png&size=contain`
-
-+++?image=img/sample1.png&size=50% auto
-`+++?image=img/sample1.png&size=50% auto`
-
-
-
-
-
----?color=linear-gradient(to left, #56ccf2, #2f80ed)
-<!-- .slide: class="center" -->
-
-two-column
+Layout
 
 +++
 
+two column
+
 ```
 <div class="column1">
 LEFT SIDE
@@ -99,12 +85,26 @@ LEFT SIDE
 <div class="column2">
 RIGHT SIDE
 </div class="column2">
+
++++
+
+fixed horizontal element
+
+```
+<div style="position:absolute; bottom=100px; heigth:50px; color:white; background-color:orange">
+Fixed Footer Text
+</div>
+```
+
+<div style="position:absolute; bottom=100px; heigth:50px; color:white; background-color:orange">
+Fixed Footer Text
+</div>
 
 
 ---?color=linear-gradient(to left, #56ccf2, #2f80ed)
 <!-- .slide: class="center" -->
 
-image
+Image
 
 +++
 
