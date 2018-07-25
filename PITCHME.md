@@ -5,25 +5,22 @@ knitr::knit(input = "~/Dropbox/gitpitch/PITCHME.Rmd", output = "~/Dropbox/gitpit
 
 external files
 
-`root/PITCHME.yaml`
 ```
+## root/PITCHME.yaml
+
 # Layout
 layout : top-left
-
 # Look-and-Feel
 theme : white
 vertical-center : false
-
 # additinal css theme
 theme-override: css/PITCHME.css
-
 # Plugins
 mathjax : TeX-AMS_HTML-full
 footnote : "© 2018 Keach Murakami"
-```
 
-`root/css/PITCHME.css`
-```css
+
+## root/css/PITCHME.css
 .reveal .slides section .column1 {
 float: left;
 width: 49%;
@@ -42,8 +39,8 @@ background
 +++?image=img/sample1.png&size=contain
 `+++?image=img/sample1.png&size=contain`
 
-+++?image=img/sample1.png&size=cover
-`+++?image=img/sample1.png&size=cover`
++++?image=img/sample1.png&size=80% auto
+`+++?image=img/sample1.png&size=80% auto`
 
 
 
