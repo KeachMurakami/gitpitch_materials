@@ -6,3 +6,9 @@
   float: right;
   width: 49%;
 }
+
+#footer {
+  color: white;
+  background-color: orange;
+  padding: 5px
+}
