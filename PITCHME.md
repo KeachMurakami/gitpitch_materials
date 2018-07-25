@@ -1,6 +1,12 @@
 
 ```r
 knitr::knit(input = "~/Dropbox/gitpitch/PITCHME.Rmd", output = "~/Dropbox/gitpitch/PITCHME.md")
+
+system("
+git add --all
+git commit -m 'update'
+git push -u origin master
+")
 ```
 
 external files
