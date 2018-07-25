@@ -1,6 +1,6 @@
----
-output: md_document
----
+```{r eval = FALSE}
+knitr::knit(input = "~/Dropbox/gitpitch/PITCHME.Rmd", output = "~/Dropbox/gitpitch/PITCHME.md")
+```
 
 external files
 
