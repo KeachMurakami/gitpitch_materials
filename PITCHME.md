@@ -8,12 +8,17 @@
     - [PITCHME.yaml](https://github.com/KeachMurakami/gitpitch_materials/blob/master/PITCHME.yaml)
     - [override css](https://github.com/KeachMurakami/gitpitch_materials/blob/master/css/PITCHME.css)
 
-
-
 ---?color=linear-gradient(to left, #56ccf2, #2f80ed)
 <!-- .slide: class="center" -->
 
 Geometry
+
++++
+
+
+set margin
+
+- [Vertically fill screen 100%? #180 | GitHub](https://github.com/hakimel/reveal.js/issues/180)
 
 +++
 
