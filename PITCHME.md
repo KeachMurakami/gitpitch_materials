@@ -2,10 +2,6 @@
 
 external files
 
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-<script type="text/javascript" src="https://raw.githubusercontent.com/KeachMurakami/gitpitch_materials/master/js/footerFixed.js"></script>
-
-
 ```
 ## root/PITCHME.yaml
 
@@ -103,13 +99,6 @@ Fixed Footer Text
 Fixed Footer Text
 </div>
 
-+++
-
-fixed horizontal element
-
-<div id="footer">
-Fixed Footer Text JS
-</div>
 
 +++
 
@@ -117,14 +106,6 @@ fixed horizontal element
 
 <div style="position:fixed; bottom=0; heigth:200px; color:white; background-color:orange">
 Fixed Footer Text fix
-</div>
-
-+++
-
-fixed horizontal element
-
-<div style="position:relative; bottom=100px; heigth:200px; color:white; background-color:orange">
-Fixed Footer Text
 </div>
 
 ---?color=linear-gradient(to left, #56ccf2, #2f80ed)
