@@ -122,26 +122,32 @@ resize (demo)
 ![](img/sample1.png)
 </div>
 <div class="column2">
-![](img/sample1.png =80x80){width = 50%}
+<img src="img/sample1.png" width="20%">
 </div>
 
 +++
-![](img/sample1.png){width=20%}
-![](img/sample1.png){width=20px}
-
-+++
-<img src="img/sample1.png" width="20%">
-<img src="img/sample1.png" width="20px">
-
-+++
-<img src="img/sample1.png" alt="drawing" style="width:20%;"/>
-<img src="img/sample1.png" alt="drawing" style="width:20px;"/>
-
-+++
-![](img/sample1.png){:width="20%"}
-![](img/sample1.png){:width="20px"}
 
 resize (code)
+
+```
+<div class="column1">
+![](img/sample1.png)
+</div>
+<div class="column2">
+<img src="img/sample1.png" width="20%">
+</div>
+```
+
+work
+
+- `<img src="img/sample1.png" width="20%">`
+
+not work
+
+- `![](img/sample1.png){width=20%}`
+
+
+
 
 
 
