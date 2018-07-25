@@ -103,7 +103,7 @@ Fixed Footer Text
 
 fixed horizontal element
 
-<div style="position:fixed; bottom=100px; heigth:200px; color:white; background-color:orange">
+<div style="position:fixed; bottom=0; heigth:200px; color:white; background-color:orange">
 Fixed Footer Text
 </div>
 
