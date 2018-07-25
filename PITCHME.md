@@ -20,6 +20,10 @@ set margin
 
 - [Vertically fill screen 100%? #180 | GitHub](https://github.com/hakimel/reveal.js/issues/180)
 
+working correctly?
+
+- Wrap some looooooooooooooooooooooooooooooooooooooong words
+
 +++
 
 <!--html_preserve-->
