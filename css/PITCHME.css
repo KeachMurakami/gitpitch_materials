@@ -36,6 +36,7 @@
 }
 .reveal micro {
   font-size: 0.6em;
+  vertical-align: bottom;
 }
 .reveal small {
   font-size: 0.75em;
