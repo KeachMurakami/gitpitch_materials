@@ -62,6 +62,10 @@ Geometry
 <div style="position:absolute; left:800px; top:0px; width:3px; height:850px; background-color:orange"></div>
 <div style="position:absolute; left:900px; top:0px; width:3px; height:950px; background-color:orange"></div>
 
++++
+
+`r yose::draw_grid()`
+
 +++?image=img/sample1.png&size=50% auto
 `+++?image=img/sample1.png&size=50% auto`
 
