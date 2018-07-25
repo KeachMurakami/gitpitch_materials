@@ -2,6 +2,10 @@
 
 external files
 
+<script type="text/javascript" src="http://blog.webcreativepark.net/sample/js/36/footerFixed.js">
+</script>
+
+
 ```
 ## root/PITCHME.yaml
 
@@ -103,8 +107,16 @@ Fixed Footer Text
 
 fixed horizontal element
 
+<div id="footer" style="position:relative; heigth:200px; color:white; background-color:orange">
+Fixed Footer Text JS
+</div>
+
++++
+
+fixed horizontal element
+
 <div style="position:fixed; bottom=0; heigth:200px; color:white; background-color:orange">
-Fixed Footer Text
+Fixed Footer Text fix
 </div>
 
 +++
