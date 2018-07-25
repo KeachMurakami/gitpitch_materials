@@ -115,7 +115,7 @@ Fixed Footer Text
 
 fixed horizontal element
 
-<div id="footer" style="position:relative; heigth:200px; color:white; background-color:orange">
+<div id="footer">
 Fixed Footer Text JS
 </div>
 
