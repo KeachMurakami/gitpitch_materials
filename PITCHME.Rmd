@@ -1,9 +1,5 @@
 ---
-output:
-  md_document:
-    variant: markdown_github
----
-
+output: md_document
 ---
 
 external files
@@ -43,10 +39,10 @@ footnote : "© 2018 Keach Murakami"
 background
 
 +++?image=img/sample.png&size=contain
-`+++?image=img/sample.png&size=contain`
+@+++?image=img/sample.png&size=contain
 
 +++?image=img/sample.png&size=cover
-`+++?image=img/sample.png&size=cover`
+@+++?image=img/sample.png&size=cover
 
 
 
@@ -68,6 +64,7 @@ LEFT SIDE
 RIGHT SIDE
 </div class="column2">
 ```
+
 <div class="column1">
 LEFT SIDE
 </div class="column1">
