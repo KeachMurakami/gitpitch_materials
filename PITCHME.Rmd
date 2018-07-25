@@ -141,9 +141,9 @@ resize (code)
 </div>
 ```
 
-- `r htmltools::HTML("@fa[thumbs-up]")`: `<img src="img/sample1.png" width="20%">`
+- <small>`r htmltools::HTML("@fa[thumbs-up]")`: `<img src="img/sample1.png" width="20%">`</small>
 
-- `r htmltools::HTML("@fa[thumbs-down]")`: `![](img/sample1.png){width=20%}`
+- <small>`r htmltools::HTML("@fa[thumbs-down]")`: `![](img/sample1.png){width=20%}`</small>
 
 
 ---

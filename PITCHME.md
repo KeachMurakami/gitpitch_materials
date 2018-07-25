@@ -152,9 +152,9 @@ resize (code)
 </div>
 ```
 
-- <!--html_preserve-->@fa[thumbs-up]<!--/html_preserve-->: `<img src="img/sample1.png" width="20%">`
+- <small><!--html_preserve-->@fa[thumbs-up]<!--/html_preserve-->: `<img src="img/sample1.png" width="20%">`</small>
 
-- <!--html_preserve-->@fa[thumbs-down]<!--/html_preserve-->: `![](img/sample1.png){width=20%}`
+- <small><!--html_preserve-->@fa[thumbs-down]<!--/html_preserve-->: `![](img/sample1.png){width=20%}`</small>
 
 
 ---

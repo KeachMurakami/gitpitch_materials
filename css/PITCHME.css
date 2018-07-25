@@ -1,3 +1,4 @@
+/* layout */
 .reveal .slides section .column1 {
   float: left;
   width: 49%;
@@ -7,8 +8,27 @@
   width: 49%;
 }
 
+/* image */
+
 .reveal section img {
   border: 0;
   box-shadow: none;
   margin: 1px;
+}
+
+
+/* text */
+.reveal sup {
+  font-size: 0.6em;
+  vertical-align: sup;
+}
+.reveal sub {
+  font-size: 0.6em;
+  vertical-align: sub;
+}
+.reveal micro {
+  font-size: 0.6em;
+}
+.reveal small {
+  font-size: 0.75em;
 }
