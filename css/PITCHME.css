@@ -14,13 +14,13 @@
   min-height: 90% !important;
   top: auto
   min-width: 100% !important;
-  left: auto
+  left: 0 !important;
 }
 .reveal .slides>section>section {
   min-height: 100% !important;
   top: auto
   min-width: 100% !important;
-  left: auto
+  left: 0 !important;
 }
 
 
