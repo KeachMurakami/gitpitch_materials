@@ -138,11 +138,11 @@ resize (code)
 </div>
 ```
 
-@fa[thumb-up]
+`r htmltools::HTML("@fa[thumb-up]")`
 
 - `<img src="img/sample1.png" width="20%">`
 
-@fa[thumb-down]
+`r htmltools::HTML("@fa[thumb-down]")`
 
 - `![](img/sample1.png){width=20%}`
 

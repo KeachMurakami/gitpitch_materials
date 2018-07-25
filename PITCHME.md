@@ -139,11 +139,11 @@ resize (code)
 </div>
 ```
 
-@fa[thumb-up]
+<!--html_preserve-->@fa[thumb-up]<!--/html_preserve-->
 
 - `<img src="img/sample1.png" width="20%">`
 
-@fa[thumb-down]
+<!--html_preserve-->@fa[thumb-down]<!--/html_preserve-->
 
 - `![](img/sample1.png){width=20%}`
 
