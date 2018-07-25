@@ -10,4 +10,5 @@
 .reveal section img {
   border: 0;
   box-shadow: none;
+  margin: 1px;
 }
