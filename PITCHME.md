@@ -1,5 +1,10 @@
 
 
+Reveal.initialize({
+    width: '100%',
+    height: '100%'
+})
+
 ## SOURCE
 
 - [slide](https://gitpitch.com/KeachMurakami/gitpitch_materials#/)
