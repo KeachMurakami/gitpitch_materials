@@ -1,5 +1,6 @@
 # Layout
 layout : top-left
+width : 100%
 
 # Look-and-Feel
 theme : white
