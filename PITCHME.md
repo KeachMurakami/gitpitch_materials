@@ -1,7 +1,5 @@
 
 
-<!--html_preserve-->Reveal.initialize({width: '100%', height: '100%'})<!--/html_preserve-->
-
 ## SOURCE
 
 - [slide](https://gitpitch.com/KeachMurakami/gitpitch_materials#/)
@@ -69,19 +67,19 @@ LEFT SIDE
 RIGHT SIDE
 </div class="column2">
 
-+++
+<!-- +++ -->
 
-fixed horizontal element
+<!-- fixed horizontal element -->
 
-```
-<div style="position:absolute; top=700px; heigth:200px; color:white; background-color:orange">
-Fixed Footer Text
-</div>
-```
+<!-- ``` -->
+<!-- <div style="position:absolute; top=700px; heigth:200px; color:white; background-color:orange"> -->
+<!-- Fixed Footer Text -->
+<!-- </div> -->
+<!-- ``` -->
 
-<div style="position:absolute; top=700px; heigth:200px; color:white; background-color:orange">
-Fixed Footer Text
-</div>
+<!-- <div style="position:absolute; top=700px; heigth:200px; color:white; background-color:orange"> -->
+<!-- Fixed Footer Text -->
+<!-- </div> -->
 
 ---?color=linear-gradient(to left, #56ccf2, #2f80ed)
 <!-- .slide: class="center" -->
