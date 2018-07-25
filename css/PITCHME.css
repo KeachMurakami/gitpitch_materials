@@ -19,6 +19,7 @@
 
 .reveal .slides {
   height: 100% !important;
+  width: 100% !important;
   top: 0 !important;
   margin-top: 0 !important;
   left: 0 !important;
@@ -34,7 +35,7 @@
 
 .reveal .slides>section>section {
   min-height: 100% !important;
-  min-width: 90% !important;
+  min-width: 100% !important;
 }
 
 /* image */
