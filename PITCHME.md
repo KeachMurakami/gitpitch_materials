@@ -139,15 +139,8 @@ resize (code)
 </div>
 ```
 
-work
-
-- `<img src="img/sample1.png" width="20%">`
-
-not work
-
-- `![](img/sample1.png){width=20%}`
-
-
+- @fa[thumb-up] `<img src="img/sample1.png" width="20%">`
+- @fa[thumb-down] `![](img/sample1.png){width=20%}`
 
 
 --- REFERENCES
