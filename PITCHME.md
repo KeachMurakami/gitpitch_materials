@@ -1,32 +1,12 @@
 
 
-external files
-
-```
-## root/PITCHME.yaml
-
-# Layout
-layout : top-left
-# Look-and-Feel
-theme : white
-vertical-center : false
-# additinal css theme
-theme-override: css/PITCHME.css
-# Plugins
-mathjax : TeX-AMS_HTML-full
-footnote : "© 2018 Keach Murakami"
+- [slide](https://gitpitch.com/KeachMurakami/gitpitch_materials#/)
+- [markdown](https://github.com/KeachMurakami/gitpitch_materials/blob/master/PITCHME.md)
+- external files
+    - [PITCHME.yaml](https://github.com/KeachMurakami/gitpitch_materials/blob/master/PITCHME.yaml)
+    - [override css](https://github.com/KeachMurakami/gitpitch_materials/blob/master/css/PITCHME.css)
 
 
-## root/css/PITCHME.css
-.reveal .slides section .column1 {
-float: left;
-width: 49%;
-}
-.reveal .slides section .column2 {
-float: right;
-width: 49%;
-}
-```
 
 ---?color=linear-gradient(to left, #56ccf2, #2f80ed)
 <!-- .slide: class="center" -->
@@ -55,6 +35,7 @@ Geometry
 <div style="position:absolute; left:800px; top:0px; width:3px; height:850px; background-color:orange"></div>
 <div style="position:absolute; left:900px; top:0px; width:3px; height:950px; background-color:orange"></div>
 <!--/html_preserve-->
+
 
 
 ---?color=linear-gradient(to left, #56ccf2, #2f80ed)
@@ -98,19 +79,22 @@ Fixed Footer Text
 Fixed Footer Text
 </div>
 
-
-+++
-
-fixed horizontal element
-
-<div class="footer">
-Fixed Footer Text fix
-</div>
-
 ---?color=linear-gradient(to left, #56ccf2, #2f80ed)
 <!-- .slide: class="center" -->
 
 Image
+
++++
+
+override css
+
+```css
+.reveal section img {
+  border: 0;
+  box-shadow: none;
+  margin: 1px;
+}
+```
 
 +++
 
