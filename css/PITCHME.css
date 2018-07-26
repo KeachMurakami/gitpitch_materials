@@ -5,10 +5,22 @@
   height: 100% !important;
   top: 0 !important;
   margin-top: 0 !important;
-  width: 90% !important;
+  width: 95% !important;
   left: 0 !important;
   margin-left: 5% !important;
   font-weight: inherit;
+}
+.reveal .slides>section {
+  min-height: 90% !important;
+  top: auto
+  min-width: 90% !important;
+  left: 0 !important;
+}
+.reveal .slides>section>section {
+  min-height: 90% !important;
+  top: auto
+  min-width: 90% !important;
+  left: 0 !important;
 }
 
 
