@@ -1,13 +1,13 @@
 /* layout */
 
 .reveal .slides {
-  line-height: 1.2; /* reduce distance between lines*/
+  line-height: 1.1; /* reduce distance between lines*/
   height: 100% !important;
   top: 0 !important;
   margin-top: 0 !important;
-  width: 95% !important;
+  width: 100% !important;
   left: 0 !important;
-  margin-left: 5% !important;
+  margin-left: 3% !important;
   font-weight: inherit;
 }
 .reveal .slides>section {
