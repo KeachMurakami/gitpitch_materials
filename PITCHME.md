@@ -66,7 +66,7 @@ This slide is available on <!--html_preserve-->@fa[github]<!--/html_preserve--> 
 
 ```r
 `r yose::add_ribbon(height = 40, offset = 600, text_align = "center", background_color = "grey", color = "white", em = 1.5)`
-# This slide is available on `r htmltools::HTML("@fa[github]")` `KeachMurakami/gitpitch_materials`
+This slide is available on `r htmltools::HTML("@fa[github]")` `KeachMurakami/gitpitch_materials`
 </div>
 ```
 
