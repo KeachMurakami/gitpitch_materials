@@ -24,27 +24,37 @@ git push -u origin master
 +++
 
 
-Want to expand slide area?
+- Want to expand slide area?
+    - [Vertically fill screen 100%? #180 | GitHub](https://github.com/hakimel/reveal.js/issues/180)
 
-[Vertically fill screen 100%? #180 | GitHub](https://github.com/hakimel/reveal.js/issues/180)
+- See if this works correctly!
+    - Wrap some looooooooooooooooooooooooooooooooooooooong words?
+    - Change the window size the wrapping?
 
-
-See if this works correctly!
-
-- Wrap some looooooooooooooooooooooooooooooooooooooong words
-- Woooooooooooooooooooooooooooooooooooooooooooorking correctly?
-- Note that if apply this, we cannot set per-slide vertical alignment with `<!-- .slide: class="center" -->`
+- <small>Note that if apply this, we cannot set per-slide vertical alignment with `<!-- .slide: class="center" -->`</small>
 
 +++
 
 `r yose::draw_grid()`
 
-
-
 ---?color=linear-gradient(to left, #56ccf2, #2f80ed)
 <!-- .slide: class="center" -->
 
 ## Layout
+
++++
+
+footer
+
+`r yose::add_ribbon(height = 40, offset = 600, text_align = "center", background_color = "grey", color = "white", em = .5)`
+This slide is available on `r HTML("@fa[github]")` `KeachMurakami/gitpitch_materials`
+</div>
+
+```
+`r yose::add_ribbon(height = 40, offset = 600, text_align = "center", background_color = "grey", color = "white", em = 1.5)`
+This slide is available on `r HTML("@fa[github]")` `KeachMurakami/gitpitch_materials`
+</div>
+```
 
 +++
 
@@ -164,3 +174,9 @@ resize (code)
 
 ## References
 <!-- .slide: class="center" -->
+
+- GitPitch Pages
+    - [docs](https://gitpitch.com/docs)
+    - [wiki](https://github.com/gitpitch/gitpitch/wiki)
+- [hakimel/reveal.js | GitHub](https://github.com/hakimel/reveal.js/)
+    - GitPitch depends on revealjs
