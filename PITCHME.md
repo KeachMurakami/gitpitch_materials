@@ -1,6 +1,6 @@
 
 
-## SOURCE
+## Source
 
 - [slide](https://gitpitch.com/KeachMurakami/gitpitch_materials#/)
 - [markdown](https://github.com/KeachMurakami/gitpitch_materials/blob/master/PITCHME.md)
@@ -11,7 +11,7 @@
 ---?color=linear-gradient(to left, #56ccf2, #2f80ed)
 <!-- .slide: class="center" -->
 
-Geometry
+## Geometry
 
 +++
 
@@ -55,7 +55,7 @@ See if this works correctly!
 ---?color=linear-gradient(to left, #56ccf2, #2f80ed)
 <!-- .slide: class="center" -->
 
-Layout
+## Layout
 
 +++
 
@@ -96,7 +96,7 @@ RIGHT SIDE
 ---?color=linear-gradient(to left, #56ccf2, #2f80ed)
 <!-- .slide: class="center" -->
 
-Image
+## Image
 
 +++
 
@@ -173,5 +173,5 @@ resize (code)
 
 ---
 
-REFERENCES
+## References
 <!-- .slide: class="center" -->
