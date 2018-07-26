@@ -15,10 +15,10 @@
 
 +++
 
+margin
 
 - Want to expand slide area?
     - [Vertically fill screen 100%? #180 | GitHub](https://github.com/hakimel/reveal.js/issues/180)
-
 - See if this works correctly!
     - Wrap some looooooooooooooooooooooooooooooooooooooong words?
     - Change the window size the wrapping?
@@ -26,6 +26,8 @@
 - <small>Note that if apply this, we cannot set per-slide vertical alignment with `<!-- .slide: class="center" -->`</small>
 
 +++
+
+grids
 
 <!--html_preserve-->
 <div style="position:absolute; left:0px; top:0px; width:100%; height:{width}px; background-color:red">top: 0px</div>
@@ -69,7 +71,7 @@ This slide is available on <!--html_preserve-->@fa[github]<!--/html_preserve--> 
 
 +++
 
-two column
+two-column
 
 ```
 <div class="column1">
@@ -176,9 +178,9 @@ resize (code)
 </div>
 ```
 
-- <small><!--html_preserve-->@fa[thumbs-up]<!--/html_preserve-->: `<img src="img/sample1.png" width="20%">`</small>
+- <small>WORK<!--html_preserve-->@fa[thumbs-up]<!--/html_preserve-->: `<img src="img/sample1.png" width="20%">`</small>
 
-- <small><!--html_preserve-->@fa[thumbs-down]<!--/html_preserve-->: `![](img/sample1.png){width=20%}`</small>
+- <small>NOT WORK<!--html_preserve-->@fa[thumbs-down]<!--/html_preserve-->: `![](img/sample1.png){width=20%}`</small>
 
 
 ---
