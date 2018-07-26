@@ -63,9 +63,10 @@ footer
 This slide is available on <!--html_preserve-->@fa[github]<!--/html_preserve--> `KeachMurakami/gitpitch_materials`
 </div>
 
-```
-# <!--html_preserve--><div style='position:absolute; left:-50%; width:200%; top:600px; height:60px; padding:10px; font-size:1.5em; text-align:center; background-color:grey; color:white'><!--/html_preserve-->
-# This slide is available on <!--html_preserve-->@fa[github]<!--/html_preserve--> `KeachMurakami/gitpitch_materials`
+
+```r
+`r yose::add_ribbon(height = 40, offset = 600, text_align = "center", background_color = "grey", color = "white", em = 1.5)`
+# This slide is available on `r htmltools::HTML("@fa[github]")` `KeachMurakami/gitpitch_materials`
 </div>
 ```
 
