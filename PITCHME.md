@@ -126,7 +126,7 @@ override css
 
 
 
-+++?image=img/bg_img-1.png&position=bottom 50px right 50%&size=65% auto
++++?image=img/bg_img-1.png&position=bottom 30px right 50%&size=60% auto
 
 - XXX was correlated with YYYY.
 - implemented by `+++?image=img/bg_img-1.png&position=bottom 50px right 50%&size=65% auto`

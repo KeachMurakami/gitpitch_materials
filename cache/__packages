@@ -1,9 +1,4 @@
 base
-methods
-stats
-grDevices
-graphics
-utils
 MASS
 magrittr
 knitr
@@ -19,4 +14,3 @@ stringr
 forcats
 devtools
 lubridate
-datasets
