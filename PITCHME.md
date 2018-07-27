@@ -128,8 +128,19 @@ override css
 
 +++?image=img/bg_img-1.png&position=bottom 30px right 50%&size=60% auto
 
+data presentation slide (demo)
+
 - XXX was correlated with YYYY.
-- implemented by `+++?image=img/bg_img-1.png&position=bottom 50px right 50%&size=65% auto`
+
+
++++
+
+data presentation slide (code)
+
+```
++++?image=img/bg_img-1.png&position=bottom 30px right 50%&size=60% auto
+```
+
 
 +++
 
