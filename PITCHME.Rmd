@@ -114,7 +114,7 @@ override css
 ```
 
 
-```{r bg_img, fig.path="img/", fig.width = 10, fig.heigth = 7, include = FALSE}
+```{r bg_img, cache=T, fig.path="img/", fig.width = 10, fig.heigth = 7, include = FALSE}
 ggplot(mtcars, aes(x = mpg, y = hp)) +
   theme_dark() +
   geom_point()
