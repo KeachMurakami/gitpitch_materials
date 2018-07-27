@@ -126,7 +126,7 @@ override css
 
 
 
-+++?image=img/bg_img-1.png&position=bottom 50px right 50%&size=65% auto
++++?image=img/bg_img-1.png&position=bottom 50px right 50%&size=50% auto
 
 data presentation
 
