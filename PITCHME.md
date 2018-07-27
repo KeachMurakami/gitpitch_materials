@@ -128,7 +128,8 @@ override css
 
 +++?image=img/bg_img-1.png&position=bottom 50px right 50%&size=60% auto
 
-data presentation
+- XXX was correlated with YYYY.
+- Possible link between XXX and YYY?
 
 
 ```r
