@@ -125,19 +125,6 @@ override css
 
 
 
-+++?image=figure/chunk1-1.png&position=bottom 5% right 50%&size=60% auto
-<!--
-
-```r
-plot(1:10)
-```
-
-![plot of chunk chunk1](figure/chunk1-1.png)-->
-
-+++
-
-
-
 +++?image=img/bg_img-1.png&position=bottom 30px right 50%&size=60% auto
 
 data presentation slide (demo)
@@ -215,6 +202,25 @@ resize (code)
 
 - <small>NOT WORK<!--html_preserve-->@fa[thumbs-down]<!--/html_preserve-->: `![](img/sample1.png){width=20%}`</small>
 
+
+---
+
+## Beta
+
++++
+
+knitr chunk option for gitpitch slide, not working
+
+
+
++++?image=figure/chunk1-1.png&position=bottom 5% right 50%&size=60% auto
+<!--
+
+```r
+plot(1:10)
+```
+
+![plot of chunk chunk1](figure/chunk1-1.png)-->
 
 ---
 
