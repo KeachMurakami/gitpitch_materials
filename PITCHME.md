@@ -125,6 +125,18 @@ override css
 
 
 
++++?image=figure/chunk1-1.png&position=bottom 5% right 50%&size=60% auto
+<!--
+
+```r
+plot(1:10)
+```
+
+![plot of chunk chunk1](figure/chunk1-1.png)-->
+
++++
+
+
 
 +++?image=img/bg_img-1.png&position=bottom 30px right 50%&size=60% auto
 

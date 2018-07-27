@@ -113,6 +113,22 @@ override css
 }
 ```
 
+```{r setup, echo = FALSE}
+knitr::knit_hooks$set(gitpitch = function(before, options, envir) {
+  if (before) {
+    knit_expand(text = c(stringr::str_glue("+++?image=figure/{opts_current$get('label')}-1.png&position=bottom 5% right 50%&size=60% auto"), "<!--"))
+    } else {
+    knit_expand(text = "-->")
+    }
+  })
+
+```
+
+```{r chunk1, gitpitch = TRUE}
+plot(1:10)
+```
+
++++
 
 ```{r bg_img, cache=T, fig.path="img/", fig.width = 10, fig.heigth = 7, include = FALSE}
 ggplot(mtcars, aes(x = mpg, y = hp)) +
