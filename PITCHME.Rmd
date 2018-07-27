@@ -6,6 +6,8 @@ git add --all
 git commit -m 'update'
 git push -u origin master
 ")
+
+# system("docker run -it -v ~/Dropbox/gitpitch:/repo -p 9000:9000 store/gitpitch/desktop:pro")
 ```
 
 ## Source
@@ -110,6 +112,17 @@ override css
   margin: 1px;
 }
 ```
+
+
+```{r bg_img, fig.path="img", include = FALSE}
+ggplot(mtcars, aes(x = mpg, y = hp)) +
+  theme_dark() +
+  geom_point()
+```
+
++++?image=img/bg_img-1.png&size=65% auto
+
+data presentation
 
 +++
 

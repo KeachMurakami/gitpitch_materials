@@ -3,8 +3,8 @@
 .reveal .slides {
   line-height: 1.1; /* reduce distance between lines*/
   height: 100% !important;
-  top: 0 !important;
-  margin-top: 0 !important;
+  top: 0
+  margin-top: 0
   width: 90% !important;
   left: 5% !important;
   margin-left: 0 !important;
