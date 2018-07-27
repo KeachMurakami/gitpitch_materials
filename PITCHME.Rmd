@@ -131,8 +131,8 @@ data presentation slide (demo)
 
 data presentation slide (code)
 
-```
-+++?image=img/bg_img-1.png&position=bottom 30px right 50%&size=60% auto
+```{r}
+#> +++?image=img/bg_img-1.png&position=bottom 30px right 50%&size=60% auto
 ```
 
 
