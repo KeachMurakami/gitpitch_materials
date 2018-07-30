@@ -101,6 +101,8 @@ RIGHT SIDE
 
 ## Image
 
++++?image=img/scat.gif&position=bottom 30px right 50%&size=43% auto??image=img/scat_r2.png
+
 +++
 
 override css
