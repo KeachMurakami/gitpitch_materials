@@ -101,9 +101,9 @@ RIGHT SIDE
 
 ## Image
 
-+++?image=img/scat.gif&position=bottom 30px left 0%&size=43% auto
++++?image=img/scat.gif&position=bottom 30px left 50%&size=43% auto
 
-<img src="img/scat_r2.png" left="50%" width="45%">
+<img src="img/scat_r2.png" left="0%" width="45%">
 
 +++
 
